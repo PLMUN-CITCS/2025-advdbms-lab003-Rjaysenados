@@ -1,1 +1,3 @@
 CREATE DATABASE `UniversityDB`;
+`UniversityDB`;
+SELECT DATABASE();
